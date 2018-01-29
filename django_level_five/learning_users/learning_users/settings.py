@@ -27,7 +27,7 @@ SECRET_KEY = '(ipo)g=p3@yp)hu)w$)s7w)=&zb7$t6!p^ru^$(*=b50*rtkwk'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [julkuk.pythonanywhere.com]
+ALLOWED_HOSTS = ["julkuk.pythonanywhere.com"]
 
 
 # Application definition
